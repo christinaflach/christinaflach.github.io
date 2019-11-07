@@ -1,6 +1,6 @@
 # christinaflach.github.io
 
-<!DOCTYPE html>
+
 <html>
 <title>Prof. Christina von Flach Webpage</title>
 <body>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|[Home](#profile)|[Teaching](#teaching)|[Research](#research)|
+|[home](./index.md))|[teaching](./teaching)|[research](./research)|[about](./about.md)|
 
 * * *
 

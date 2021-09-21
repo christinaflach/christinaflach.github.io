@@ -8,6 +8,4 @@ layout: default
 + MATA61
 + MATE28
 
-
-----
 [back](./)

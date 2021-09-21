@@ -12,7 +12,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Teaching
 
-[2021](./2021)
+[Academic Terms](./teaching)
 
 There should be whitespace between paragraphs.
 

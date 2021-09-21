@@ -2,10 +2,9 @@
 layout: default
 ---
 
-+ [Profile](#profile)
-  - [Teaching](#teaching) 
-  - [Research](#research) 
+|[Home](#profile)|[Teaching](#teaching)|[Research](#research)|
 
+* * *
 
 # Profile 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

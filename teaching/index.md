@@ -3,22 +3,8 @@ layout: default
 ---
 ## Teaching
 
-### Undergraduate
++ [Undergraduate](./undergraduate.md)
 
-#### 2021
-
-+ MATA56
-+ MATA61
-+ MATE28
-
-#### 2020
-
-+ MATA61
-
-### Graduate
-
-#### 2021
-
-+ MATE28
++ [Graduate](./graduate.md)
 
 [back](./)

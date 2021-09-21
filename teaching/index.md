@@ -3,8 +3,8 @@ layout: default
 ---
 ## Teaching
 
-+ [Undergraduate](./undergraduate.md)
+* [Undergraduate](./undergraduate.md)
 
-+ [Graduate](./graduate.md)
+* [Graduate](./graduate.md)
 
 [back](../)

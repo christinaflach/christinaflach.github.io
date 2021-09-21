@@ -12,8 +12,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Teaching
 
-[Undergraduate](./teaching)
-[Graduate](./teaching)
+- [Undergraduate](./teaching)
+- [Graduate](./teaching)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 

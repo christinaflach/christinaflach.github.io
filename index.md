@@ -2,11 +2,16 @@
 layout: default
 ---
 
++ [Profile](#profile)
+  - [Teaching](#teaching) 
+  - [Research](#research) 
+
+
 # Profile 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Teaching
-[Link to Teaching](./teaching.html).
+[Link to Teaching](./teaching/2021/teaching.html).
 
 There should be whitespace between paragraphs.
 

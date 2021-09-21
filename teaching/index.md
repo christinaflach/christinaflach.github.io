@@ -7,4 +7,4 @@ layout: default
 
 + [Graduate](./graduate.md)
 
-[back](./)
+[back](../)

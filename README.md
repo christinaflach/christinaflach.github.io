@@ -1,5 +1,7 @@
-# Christina von Flach
-My academic profile.
+---
+layout: post
+title: Christina von Flach
+---
 
 ## Teaching
 

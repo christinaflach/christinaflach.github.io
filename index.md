@@ -11,7 +11,8 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Teaching
-[Link to Teaching](./teaching).
+
+[2021](./2021)
 
 There should be whitespace between paragraphs.
 

@@ -12,12 +12,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Teaching
 
-- [Undergraduate](./teaching)
-- [Graduate](./teaching)
+* [Undergraduate](./teaching)
+* [Graduate](./teaching)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## Research
+
+* [Research](./research)
 
 > This is a blockquote following a header.
 >
@@ -70,14 +72,12 @@ end
 *   Item foo
 *   Item bar
 *   Item baz
-*   Item zip
 
 ### And an ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -90,10 +90,6 @@ end
   - level 2 item
   - level 2 item
   - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 

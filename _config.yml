@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Christina von Flach
-logo: /assets/img/4caaa228-1ae4-48d5-bcca-3a2c669f7256.jpg
+logo: /assets/img/logo.png
 description: Christina von Flach profile.

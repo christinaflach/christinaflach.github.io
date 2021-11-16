@@ -2,31 +2,29 @@
 layout: default
 ---
 
-# Profile 
+# About me 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+I am a Professor at the Institute of Computing, Federal University of Bahia.
+
+## Research
+
+### Projects
+
+## Publications
+
+
 
 ## Teaching
 
 * [Undergraduate](./teaching)
 * [Graduate](./teaching)
 
-## Research
 
-* Publications
-* Projects
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 ## Table
 
@@ -80,13 +78,6 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
 
 

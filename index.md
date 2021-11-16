@@ -2,10 +2,6 @@
 layout: default
 ---
 
-|[home](./index.md)|[teaching](./teaching)|[research](./research)|[about](./about.md)|
-
-* * *
-
 # Profile 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -24,12 +20,16 @@ layout: default
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
+## Table
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -66,11 +66,6 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 

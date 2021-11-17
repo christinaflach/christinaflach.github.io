@@ -27,5 +27,5 @@ She is the head of the [SEED.br](https://seed-br.github.io/) research group.
 
 | code   | name                                            | year   |
 |:-------|:------------------------------------------------|:-------|
-| MATE28 | Open Source Software: Reflections and Practices | 2021.2 |
+| [MATE28](https://github.com/mate28-ic-ufba/turma-20212) | Open Source Software: Reflections and Practices | 2021.2 |
 

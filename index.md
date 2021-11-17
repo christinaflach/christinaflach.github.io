@@ -4,16 +4,15 @@ layout: default
 
 ## About me 
 
-I am a Professor at the <a href="https://computacao.ufba.br/">Institute of Computing (IC)</a> 
-of the <a href="https://ufba.br/">Federal University of Bahia (UFBA)</a> since 1990.  
+I am a Professor at the <a href="https://computacao.ufba.br/">Institute of Computing</a> 
+of the <a href="https://ufba.br/">Federal University of Bahia</a> since 1990. I hold a PhD degree in Computer Science from the Catholic University of Rio de Janeiro, Brazil (2004). In 2019, I took a sabbatical leave at Faculty of Computer Science, University of Namur, Belgium.
+
 I was the first Director of Graduate Studies (2014-2017) of the 
-<a href="https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao">Computer Science Program (PGCOMP-UFBA)</a>, 
-which offers Master’s and PhD programs in Computer Science. 
-I hold a PhD degree in Computer Science from the Catholic University of Rio de Janeiro (2004).
-My research interests include Software Engineering and the following topics: 
-technical and social aspects of software ecosystems (architecture, evolution, health and sustainability, practices), 
-software engineering education, and lively interest on Open Source Software and Open Science. 
-She is the head of the [SEED.br](https://seed-br.github.io/) research group.
+<a href="https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao">Computer Science Program (PGCOMP-UFBA)</a>, which offers Master’s and PhD programs in Computer Science. 
+
+My current research focuses on technical and social aspects of open source software ecosystems (architecture, evolution, health and sustainability, best practices), software engineering education, with lively interest on Open Science and the sustainability of research software. 
+
+I am the head of the [SEED.br](https://seed-br.github.io/) research group.
 
 ## Research Projects
 

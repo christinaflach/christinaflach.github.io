@@ -13,11 +13,11 @@ She holds a PhD degree in Computer Science from the Catholic University of Rio d
 She has experience in Computer Science, with emphasis on Software Engineering and the following topics: 
 technical and social aspects of software ecosystems (architecture, evolution, health and sustainability, practices) 
 and software engineering education, and lively interest on Open Source Software and Open Science. 
-She is the head of the SEED.br research group.
+She is the head of the [SEED.br](https://seed-br.github.io/) research group.
 
-## Research
+## Research Projects and Publications
 
-## Publications
+* [CV Lattes](http://lattes.cnpq.br/1827829018668226)
 
 ## Teaching
 

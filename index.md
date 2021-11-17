@@ -10,9 +10,10 @@ of the <a href="https://ufba.br/">Federal University of Bahia</a> since 1990. I 
 I was the first Director of Graduate Studies (2014-2017) of the 
 <a href="https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao">Computer Science Program (PGCOMP-UFBA)</a>, which offers Master’s and PhD programs in Computer Science. 
 
-My current research focuses on technical and social aspects of open source software ecosystems (architecture, evolution, health and sustainability, best practices), software engineering education, with lively interest on Open Science and the sustainability of research software. 
-
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
+Our current research focuses on technical and social aspects of open source software ecosystems (architecture, evolution, health and sustainability, best practices), software engineering education, and (with lively interest) Open Science and research software sustainability.
+
+I've contributed to several conference technical committees, for instance, ICSE 2022 (Committee Member in PC within the Technical Papers-track), OSS 2021 (Committee Member in PC within the Technical Papers-track) ICSA 2020-2022 (Committee Member in PC within the Technical Papers-track), and SBES 2004-2021 (Committee Member in PC within the Technical Papers-track), among others.
 
 ## Research Projects
 

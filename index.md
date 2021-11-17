@@ -21,9 +21,7 @@ She is the head of the [SEED.br](https://seed-br.github.io/) research group.
 
 ## Teaching
 
-```
-MATE28 - Reflections and Practices for Open Source Software
-```
+> MATE28 - Reflections and Practices for Open Source Software
 
 * [Undergraduate](./teaching)
 * [Graduate](./teaching)

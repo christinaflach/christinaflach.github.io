@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About me 
+## About me 
 
 I am a Professor at the <a href="https://computacao.ufba.br/">Institute of Computing (IC)</a> 
 of the <a href="https://ufba.br/">Federal University of Bahia (UFBA)</a> since 1990.  
@@ -15,16 +15,17 @@ technical and social aspects of software ecosystems (architecture, evolution, he
 software engineering education, and lively interest on Open Source Software and Open Science. 
 She is the head of the [SEED.br](https://seed-br.github.io/) research group.
 
-# Research Projects
+## Research Projects
 
-* [CV Lattes](http://lattes.cnpq.br/1827829018668226)
+* [CV Lattes](http://lattes.cnpq.br/1827829018668226), Brazil
 
-# Publications
+## Publications
+
 * [ORCID ID](https://orcid.org/0000-0001-5172-9641)
 
-# Teaching
+## Teaching
 
-| code   | name                                            | year   |
+| ID     | Name                                            | Year   |
 |:-------|:------------------------------------------------|:-------|
 | [MATE28](https://github.com/mate28-ic-ufba/turma-20212) | Open Source Software: Reflections and Practices | 2021.2 |
 | [MATA56](https://github.com/mata56-ic-ufba/paradigmas) | Programming Language Paradigms | 2021.2 |

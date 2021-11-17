@@ -17,8 +17,6 @@ She is the head of the SEED.br research group.
 
 ## Research
 
-### Projects
-
 ## Publications
 
 ## Teaching

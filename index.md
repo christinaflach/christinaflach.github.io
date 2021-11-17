@@ -21,19 +21,11 @@ She is the head of the [SEED.br](https://seed-br.github.io/) research group.
 
 ## Teaching
 
-> MATE28 - Reflections and Practices for Open Source Software
-
 * [Undergraduate](./teaching)
 * [Graduate](./teaching)
 
-<!--
-## Table
 
+| code   | name                                            | year   |
+|:-------|:------------------------------------------------|:-------|
+| MATE28 | Open Source Software: Reflections and Practices | 2021.2 |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
--->

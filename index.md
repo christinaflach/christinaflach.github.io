@@ -35,8 +35,6 @@ In 2022 she's the PC Co-chair of the [SBES 2022 - Research track](https://cbsoft
 
 ## Teaching
 
-### 2022.1 
-
 | ID     | Name                                            | Year   |
 |:-------|:------------------------------------------------|:-------|
 |[MATA56](https://github.com/mata56-ic-ufba/paradigmas)|Programming Language Paradigms|2022.1|

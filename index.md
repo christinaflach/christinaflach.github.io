@@ -35,14 +35,13 @@ In 2022 she's the PC Co-chair of the [SBES 2022 - Research track](https://cbsoft
 
 ## Teaching
 
-### 2021.2 
+### 2022.1 
 
 | ID     | Name                                            | Year   |
 |:-------|:------------------------------------------------|:-------|
-|[MATE28](https://github.com/mate28-ic-ufba/turma-20212)|Open Source Software: Reflections and Practices|2021.2|
-|[MATA56](https://github.com/mata56-ic-ufba/paradigmas)|Programming Language Paradigms|2021.2|
-|[MATA61](https://github.com/mata61-ic-ufba/compiladores)|Compilers|2021.2|
+|[MATA56](https://github.com/mata56-ic-ufba/paradigmas)|Programming Language Paradigms|2022.1|
+|[MATA61](https://github.com/mata61-ic-ufba/compiladores)|Compilers|2022.1|
 
-+ [2021.1](teaching/20211.md)
-+ [2020.2](teaching/20202.md)
-+ 
++ [2021.2](teaching/20212-teaching.md)
++ [2021.1](teaching/20211-teaching.md)
++ [2020.2](teaching/20202-teaching.md)

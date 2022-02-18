@@ -10,7 +10,8 @@ I hold a PhD degree in Computer Science from the [Catholic University of Rio de 
 In 2019, I took a sabbatical leave at [Faculty of Computer Science, University of Namur](https://directory.unamur.be/entities/inf), Belgium.
 
 I was the first Director of Graduate Studies (2014-2017) of the 
-[Computer Science Program (PGCOMP-UFBA)](https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao)  offers Master’s and PhD programs in Computer Science in the State of Bahia, Brazil. 
+[Computer Science Program (PGCOMP-UFBA)](https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao), 
+the first to offer both Master’s and PhD degrees in Computer Science in the State of Bahia, Brazil.
 
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
 Our current research focuses on technical and social aspects of open source software ecosystems (architecture, evolution, health and sustainability, best practices), software engineering education, and (with lively interest) Open Science and research software sustainability.

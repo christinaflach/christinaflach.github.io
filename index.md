@@ -17,12 +17,13 @@ Our current research focuses on technical and social aspects of open source soft
 
 I've contributed to several conference technical committees, for instance, 
 - [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
+- [ICSR 2022 (Committee Member in PC - Technical Papers track)](https://icsr2022v2.wp.imt.fr) 
 - [OSS 2021 (Committee Member in PC - Technical Papers track)](https://www.oss2021.org/committee/oss-2021-papers-program-committee) 
 - [ICSA 2020-2022 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/)
 - SBES 2004-2021 (Committee Member in PC - Technical Papers track)
 - SBES 2017-2021 (Committee Member in PC - Education track), among others.
 
-In 2022 I am co-chairing the TPC of the [SBES 2022 - Research track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php).
+In 2022 I am co-chairing the Technical Program Committee of the [SBES 2022 Research track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php).
 
 ## Publications
 

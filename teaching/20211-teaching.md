@@ -6,4 +6,4 @@ layout: default
 
 | ID     | Name                                            | Year   |
 |:-------|:------------------------------------------------|:-------|
-|[MATA61](https://github.com/mata61-ic-ufba/compiladores)|Compilers|2021.2|
+|[MATA61](https://github.com/mata61-ic-ufba)|Compilers|2021.2|

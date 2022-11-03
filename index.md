@@ -20,7 +20,7 @@ In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa, of the Technica
 
 I've contributed to several conference technical committees, for instance, 
 - [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
-   - [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
+  + [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
 - [ICSR 2022 (Committee Member in PC - Technical Papers track)](https://icsr2022v2.wp.imt.fr) 
 - [SBES 2022 (PC Chair)](https://cbsoft2022.facom.ufu.br/organizacao.php)
 - [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)

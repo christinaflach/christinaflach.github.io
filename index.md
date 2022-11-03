@@ -17,7 +17,7 @@ I am the head of the [SEED.br](https://seed-br.github.io/) research group.
 Our current research focuses on technical and social aspects of open source software ecosystems (architecture, evolution, health and sustainability, best practices), software engineering education, and (with lively interest) Open Science and research software sustainability.
 
 I've contributed to several conference technical committees, for instance, 
-- [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach),
+- [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach), [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
 - [OSS 2021 (Committee Member in PC - Technical Papers track)](https://www.oss2021.org/committee/oss-2021-papers-program-committee), 
 - [ICSA 2020-2022 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/), 
 - SBES 2004-2021 (Committee Member in PC - Technical Papers track), 

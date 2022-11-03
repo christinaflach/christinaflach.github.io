@@ -16,16 +16,17 @@ the first to offer both Master’s and PhD degrees in Computer Science in the St
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
 Our current research focuses on technical and social aspects of open source software ecosystems, software engineering education, and (with lively interest) Open Science and research software sustainability.
 
-I am co-chairing the Technical Program Committee of the [SBES 2022 Research Track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php). The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America.
+In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa, of the Technical Program Committee of the [SBES 2022 Research Track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php). The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America.
 
 I've contributed to several conference technical committees, for instance, 
 - [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
    - [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
 - [ICSR 2022 (Committee Member in PC - Technical Papers track)](https://icsr2022v2.wp.imt.fr) 
+- [SBES 2022 (PC Chair)](https://cbsoft2022.facom.ufu.br/organizacao.php)
+- [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)
 - [OSS 2021 (Committee Member in PC - Technical Papers track)](https://www.oss2021.org/committee/oss-2021-papers-program-committee) 
 - [ICSA 2020-2022 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/)
 - SBES 2004-2021 (Committee Member in PC - Technical Papers track) 
-- [SBES 2022 (PC Chair)](https://cbsoft2022.facom.ufu.br/organizacao.php)
 - SBES 2017-2021 (Committee Member in PC - Education track), among others.
 
 ## Publications

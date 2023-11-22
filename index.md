@@ -12,9 +12,10 @@ In 2019, I took a sabbatical leave at [Faculty of Computer Science, University o
 I was the first Director of Graduate Studies (2014-2017) of the 
 [Computer Science Program (PGCOMP-UFBA)](https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao), 
 the first to offer both Master’s and PhD degrees in Computer Science in the State of Bahia, Brazil.
+Since 2022, I am a Counselor of CAE-Academic Teaching Council - UFBA and also a Counselor of CONSEPE-Teaching, Research and Extension Council - UFBA.
 
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
-Our current research focuses on technical and social aspects of open source software ecosystems, software evolution,  software engineering education, and (with lively interest) Open Science and research software sustainability.
+Our current research focuses on technical and social aspects of open source software ecosystems, software evolution, software architecture, software engineering education, and (with lively interest) Open Science and research software sustainability.
 
 In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa, of the Technical Program Committee of the [SBES 2022 Research Track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php). The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America.
 
@@ -50,8 +51,6 @@ I've contributed to several conference technical committees, for instance,
 
 | ID     | Name                                            | Year   |
 |:-------|:------------------------------------------------|:-------|
-|[MATA56](https://github.com/MATA56-IC-2022-2)|Programming Language Paradigms|2022.2|
-|[MATA61](https://github.com/MATA61-IC-2022-2)|Compilers|2022.2|
+|[MATA61](https://mata61-ic-ufba.github.io/)|Compilers|2023.2|
 
-+ [2022.1](teaching/20221-teaching.md)
-+ [2021.2](teaching/20212-teaching.md), [2021.1](teaching/20211-teaching.md), [2020.2](teaching/20202-teaching.md)
++ [2023.1](teaching/20231-teaching.md), [2022.2](teaching/20222-teaching.md), [2022.1](teaching/20221-teaching.md), [2021.2](teaching/20212-teaching.md), [2021.1](teaching/20211-teaching.md), [2020.2](teaching/20202-teaching.md)

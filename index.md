@@ -14,11 +14,20 @@ I was the first Director of Graduate Studies (2014-2017) of the
 the first to offer both Master’s and PhD degrees in Computer Science in the State of Bahia, Brazil.
 
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
-Our current research focuses on technical and social aspects of open source software ecosystems, software engineering education, and (with lively interest) Open Science and research software sustainability.
+Our current research focuses on technical and social aspects of open source software ecosystems, software evolution,  software engineering education, and (with lively interest) Open Science and research software sustainability.
 
 In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa, of the Technical Program Committee of the [SBES 2022 Research Track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php). The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America.
 
 I've contributed to several conference technical committees, for instance, 
+
+- ICSR 2024	21st International Conference on Software and Systems Reuse
+- ICSA 2024	21st International Conference on Software Architecture
+- ICSME 2023 39th IEEE International Conference on Software Maintenance and Evolution
+- SESoS 2023 11th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
+- ICSA 2023 (Committee Member in PC - Technical Papers track)
+- [ICSR 2023 (Committee Member in PC - Technical Papers track)](https://cyprusconferences.org/icsr2024/)
+- [SBES 2023 (Committee Member in PC - Technical Papers track)](https://cbsoft2023.ufms.br/en-US/sbes/pesquisa)
+- [SBLP 2023 (Committee Member in PC - Technical Papers track)](https://cbsoft2023.ufms.br/sblp)
 - [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
   + [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
 - [ICSR 2022 (Committee Member in PC - Technical Papers track)](https://icsr2022v2.wp.imt.fr) 

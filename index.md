@@ -24,21 +24,18 @@ In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa, of the Technica
 I've contributed to several conference technical committees, for instance, 
 
 - [ICSE 2025 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
-- [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
-  + [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
+- [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach) - [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
 - [CSEE&T 2025 (Software Engineering Education-track)](https://conf.researchr.org/profile/christinavonflach)
 - [ICSA 2025 International Conference on Software Architecture](https://conf.researchr.org/profile/christinavonflach)
 - [ICSR 2025 International Conference on Software and Systems Reuse](https://conf.researchr.org/profile/christinavonflach)
-- [OpenScienSE 2021-2024 (Steering Committee)](https://opensciense-org.github.io/opensciense2024/)
-  - [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)
+- [OpenScienSE 2021-2024 (Steering Committee)](https://opensciense-org.github.io/opensciense2024/); [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)
 - [ICSME 2023-2024 (Committee Member in Rose Festival & Artifacts Track)](https://conf.researchr.org/profile/christinavonflach)
 - [ICSA 2020-2024 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/)
-- ICSR 2022-2024 (Committee Member in PC - Technical Papers track)
+- ICSR 2022-[2024](https://cyprusconferences.org/icsr2024/) (Committee Member in PC - Technical Papers track)
 - [SESoS 2023 11th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems](https://conf.researchr.org/committee/icse-2023/sesos-wdes-2023-papers-program-committee)
 - [SBLP 2023-2024 Brazilian Symposium on Programming Languages (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2024/sblp/?lang=en)
-- [SBES 2004-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2023/sbes/?lang=en)
- - [SBES 2022 (PC Chair - Technical Papers track)](https://cbsoft2022.facom.ufu.br/organizacao.php)
-- SBES 2017-2023 (Committee Member in PC - Education track)
+- [SBES 2004-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2023/sbes/?lang=en); [SBES 2022 (PC Chair - Technical Papers track)](https://cbsoft2022.facom.ufu.br/organizacao.php)
+- [SBES 2017-2023 (Committee Member in PC - Education track)](https://cbsoft2023.ufms.br/en-US/sbes/educacao)
 - [OSS 2021 (Committee Member in PC - Technical Papers track)](https://www.oss2021.org/committee/oss-2021-papers-program-committee) 
 
 ## Publications

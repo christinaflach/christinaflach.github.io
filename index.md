@@ -37,7 +37,7 @@ I've contributed to several conference technical committees, for instance,
 - [SESoS 2023 11th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems](https://conf.researchr.org/committee/icse-2023/sesos-wdes-2023-papers-program-committee)
 - [SBLP 2023-2024 Brazilian Symposium on Programming Languages (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2024/sblp/?lang=en)
 - [SBES 2004-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2023/sbes/?lang=en)
-  + [SBES 2022 (PC Chair - Technical Papers track)](https://cbsoft2022.facom.ufu.br/organizacao.php)
+ - [SBES 2022 (PC Chair - Technical Papers track)](https://cbsoft2022.facom.ufu.br/organizacao.php)
 - SBES 2017-2023 (Committee Member in PC - Education track)
 - [OSS 2021 (Committee Member in PC - Technical Papers track)](https://www.oss2021.org/committee/oss-2021-papers-program-committee) 
 
@@ -56,4 +56,4 @@ I've contributed to several conference technical committees, for instance,
 |[MATA61](https://mata61-ic-ufba.github.io/)|Compilers|2024.1|
 |[PGCOMP10](https://mate08-ic-ufba.github.io/)|Fundamentals on Open Science and Research Software|2024.1|
 
-+ [2023.2](teaching/20232-teaching.md),[2023.1](teaching/20231-teaching.md), [2022.2](teaching/20222-teaching.md), [2022.1](teaching/20221-teaching.md), [2021.2](teaching/20212-teaching.md), [2021.1](teaching/20211-teaching.md), [2020.2](teaching/20202-teaching.md)
++ [2023.2](teaching/20232-teaching.md), [2023.1](teaching/20231-teaching.md), [2022.2](teaching/20222-teaching.md), [2022.1](teaching/20221-teaching.md), [2021.2](teaching/20212-teaching.md), [2021.1](teaching/20211-teaching.md), [2020.2](teaching/20202-teaching.md)

@@ -6,10 +6,10 @@ layout: default
 
 I am a Professor at the [Institute of Computing](https://computacao.ufba.br/) 
 of the [Federal University of Bahia](https://ufba.br/) since 1990. 
-I hold a PhD degree in Computer Science from the [Catholic University of Rio de Janeiro](http://www.inf.puc-rio.br), Brazil (2004) - Advisor: Prof. Carlos Lucena. 
-In 2019, I took a sabbatical leave at [Catholic University of Rio de Janeiro](http://www.inf.puc-rio.br), Brazil, with Alessandro Garcia.
-In 2019, I took a sabbatical leave at [Faculty of Computer Science, University of Namur](https://directory.unamur.be/entities/inf), Belgium, with Gilles Perrouin.
-Currently, I am on a sabbatical leave at [Universidade de São Paulo (USP)](https://www5.usp.br), Brazil, with Paulo Meirelles.
+I hold a PhD degree in Computer Science from the [Catholic University of Rio de Janeiro](http://www.inf.puc-rio.br), Brazil (2004), supervised by Prof. Carlos Lucena. 
+In 2019, I took a sabbatical leave at [Catholic University of Rio de Janeiro](http://www.inf.puc-rio.br), Brazil.
+In 2019, I took a sabbatical leave at [Faculty of Computer Science, University of Namur](https://directory.unamur.be/entities/inf), Belgium.
+Currently, I am on a sabbatical leave at [Universidade de São Paulo (USP)](https://www5.usp.br), Brazil.
 
 I was the first Director of Graduate Studies (2014-2017) of the 
 [Computer Science Program (PGCOMP-UFBA)](https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao), 
@@ -32,10 +32,10 @@ I've contributed to several conference technical committees, for instance,
 - [ICSME 2023-2024 (Committee Member in Rose Festival & Artifacts Track)](https://conf.researchr.org/profile/christinavonflach)
 - [ICSA 2020-2024 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/)
 - ICSR 2022-[2024](https://cyprusconferences.org/icsr2024/) (Committee Member in PC - Technical Papers track)
-- [SESoS 2023 11th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems](https://conf.researchr.org/committee/icse-2023/sesos-wdes-2023-papers-program-committee)
+- [SESoS 2023](https://conf.researchr.org/committee/icse-2023/sesos-wdes-2023-papers-program-committee)
 - [SBLP 2023-2024 Brazilian Symposium on Programming Languages (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2024/sblp/?lang=en)
-- [SBES 2004-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2023/sbes/?lang=en); [SBES 2022 (PC Chair - Technical Papers track)](https://cbsoft2022.facom.ufu.br/organizacao.php)
-- [SBES 2017-2023 (Committee Member in PC - Education track)](https://cbsoft2023.ufms.br/en-US/sbes/educacao)
+- [SBES 2004-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2023/sbes/?lang=en)
+- [SBES 2017-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Education track)](https://cbsoft2023.ufms.br/en-US/sbes/educacao)
 - [OSS 2021 (Committee Member in PC - Technical Papers track)](https://www.oss2021.org/committee/oss-2021-papers-program-committee) 
 - [ECSA 2021-2022 (Committee Member in PC within DE&I track)](https://conf.researchr.org/profile/ecsa-2022/christinavonflach)
 

@@ -30,7 +30,7 @@ I've contributed to several conference technical committees, for instance,
 - [ICSA 2025 International Conference on Software Architecture](https://conf.researchr.org/profile/christinavonflach)
 - [ICSR 2025 International Conference on Software and Systems Reuse](https://conf.researchr.org/profile/christinavonflach)
 - [OpenScienSE 2021-2024 (Steering Committee)](https://opensciense-org.github.io/opensciense2024/)
-  + [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)
+  - [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)
 - [ICSME 2023-2024 (Committee Member in Rose Festival & Artifacts Track)](https://conf.researchr.org/profile/christinavonflach)
 - [ICSA 2020-2024 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/)
 - ICSR 2022-2024 (Committee Member in PC - Technical Papers track)

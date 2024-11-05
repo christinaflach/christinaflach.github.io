@@ -14,7 +14,7 @@ Currently, I am on a sabbatical leave at [Universidade de São Paulo (USP)](http
 I was the first Director of Graduate Studies (2014-2017) of the 
 [Computer Science Program (PGCOMP-UFBA)](https://computacao.ufba.br/pt-br/programa-de-pos-graduacao-em-ciencia-da-computacao), 
 the first to offer both Master’s and PhD degrees in Computer Science in the State of Bahia, Brazil.
-From 2022 to 2024, I joined CAE-Academic Teaching Council - UFBA.
+From 2022 to 2024, I was a counselor of the [Academic Council (CAE) at UFBA](https://www.ufba.br/conselhos/conselho-acad%C3%AAmico-de-ensino).
 
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
 Our current research focuses on technical and social aspects of open source software ecosystems, software evolution, software architecture, software engineering education, and (with lively interest) Open Science and research software sustainability.

@@ -17,21 +17,19 @@ the first to offer both Master’s and PhD degrees in Computer Science in the St
 From 2022 to 2024, I was a counselor of the [Academic Council (CAE) at UFBA](https://www.ufba.br/conselhos/conselho-acad%C3%AAmico-de-ensino).
 
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
-Our current research focuses on technical and social aspects of open source software ecosystems, software evolution, software architecture, software engineering education, and (with lively interest) Open Science and research software sustainability.
+Our current research focuses on technical and social aspects of open source software ecosystems, software evolution, software architecture, software engineering education, and (with lively interest) in [Open Science](CSBC-2023-CronicadeumPesquisador-Pt-ChristinaFlach.pdf) and research software sustainability.
 
-In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa, of the Technical Program Committee of the [SBES 2022 Research Track](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php). The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America.
+In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa (ICMC-USP), of the [Technical Program Committee of the 36th Brazilian Symposium on Software Engineering (SBES 2022)](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php), annually promoted by the Brazilian Computer Society (SBC),
 
 I've contributed to several conference technical committees, for instance, 
 
 - [ICSE 2025 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
 - [ICSE 2022 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach) - [Distinguished Reviewer Award](./assets/ICSE2022-Distinguished-Reviewer-Award.pdf)
 - [CSEE&T 2025 (Committee Member in PC - Software Engineering Education-track)](https://conf.researchr.org/profile/christinavonflach)
-- [ICSA 2025 International Conference on Software Architecture](https://conf.researchr.org/profile/christinavonflach)
-- [ICSR 2025 International Conference on Software and Systems Reuse](https://conf.researchr.org/profile/christinavonflach)
+- [ICSA 2020-2024 International Conference on Software Architecture](https://conf.researchr.org/profile/christinavonflach)
+- [ICSR 2022-2024 International Conference on Software and Systems Reuse](https://conf.researchr.org/profile/christinavonflach)
 - [OpenScienSE 2021-2024 (Steering Committee)](https://opensciense-org.github.io/opensciense2024/); [OpenScienSE 2021 (Organizer and PC Chair)](https://opensciense.github.io/opensciense2021/index.html)
 - [ICSME 2023-2024 (Committee Member in Rose Festival & Artifacts Track)](https://conf.researchr.org/profile/christinavonflach)
-- [ICSA 2020-2024 (Committee Member in PC - Technical Papers track)](https://icsa-conferences.org/series/)
-- ICSR 2022-[2024](https://cyprusconferences.org/icsr2024/) (Committee Member in PC - Technical Papers track)
 - [SESoS 2023](https://conf.researchr.org/committee/icse-2023/sesos-wdes-2023-papers-program-committee)
 - [SBLP 2023-2024 Brazilian Symposium on Programming Languages (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2024/sblp/?lang=en)
 - [SBES 2004-2023 Brazilian Symposium on Software Engineering (Committee Member in PC - Technical Papers track)](https://cbsoft.sbc.org.br/2023/sbes/?lang=en)

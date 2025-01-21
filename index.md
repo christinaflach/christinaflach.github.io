@@ -19,7 +19,8 @@ From 2022 to 2024, I was a counselor of the [Academic Council (CAE) at UFBA](htt
 I am the head of the [SEED.br](https://seed-br.github.io/) research group.
 Our current research focuses on technical and social aspects of open source software ecosystems, software evolution, software architecture, software engineering education, and (with lively interest) in [Open Science](CSBC-2023-CronicadeumPesquisador-Pt-ChristinaFlach.pdf) and research software sustainability.
 
-In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa (ICMC-USP), of the [Technical Program Committee of the 36th Brazilian Symposium on Software Engineering (SBES 2022)](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php), annually promoted by the Brazilian Computer Society (SBC),
+In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa (ICMC-USP), of the [Technical Program Committee of the 36th Brazilian Symposium on Software Engineering (SBES 2022)](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php), annually promoted by the Brazilian Computer Society (SBC).
+
 
 I've contributed to several conference technical committees, for instance, 
 

@@ -21,7 +21,6 @@ Our current research focuses on technical and social aspects of open source soft
 
 In 2022, I was the PC Chair, together with Prof. Elisa Nakagawa (ICMC-USP), of the Technical Program Committee of the [36th Brazilian Symposium on Software Engineering (SBES 2022)](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php), annually promoted by the Brazilian Computer Society (SBC).
 
-
 I've contributed to several conference technical committees, for instance, 
 
 - [ICSE 2025 (Committee Member in PC - Technical Papers track)](https://conf.researchr.org/profile/christinavonflach)
@@ -50,7 +49,7 @@ I've contributed to several conference technical committees, for instance,
 
 | ID     | Name                                            | Year   |
 |:-------|:------------------------------------------------|:-------|
-|[MATA61](https://mata61-ic-ufba.github.io/)|Compilers|2024.1|
+|[MATA61](https://mata61-ic-ufba.github.io/)|Compilers|2026.1|
 |[PGCOMP10](https://mate08-ic-ufba.github.io/)|Fundamentals on Open Science and Research Software|2024.1|
 
-+ [2023.2](teaching/20232-teaching.md), [2023.1](teaching/20231-teaching.md), [2022.2](teaching/20222-teaching.md), [2022.1](teaching/20221-teaching.md), [2021.2](teaching/20212-teaching.md), [2021.1](teaching/20211-teaching.md), [2020.2](teaching/20202-teaching.md)
++ 2024.1, [2023.2](teaching/20232-teaching.md), [2023.1](teaching/20231-teaching.md), [2022.2](teaching/20222-teaching.md), [2022.1](teaching/20221-teaching.md), [2021.2](teaching/20212-teaching.md), [2021.1](teaching/20211-teaching.md), [2020.2](teaching/20202-teaching.md)
